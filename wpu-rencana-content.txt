@@ -3,6 +3,7 @@ rencana konten wpu
  -ES6
  -Framework Javascript
    *VUE
+   *React
 -Struktur Data Dasar
 -php framework
  -Laravel
