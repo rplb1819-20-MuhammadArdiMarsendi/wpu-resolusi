@@ -2,6 +2,7 @@ rencana konten wpu
 -javascript
  -ES6
  -Framework Javascript
+-Struktur Data Dasar
 -php framework
 -interview
 -vlog
