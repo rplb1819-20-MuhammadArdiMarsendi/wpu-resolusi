@@ -1,5 +1,7 @@
 rencana konten wpu
 -javascript
-php framework
-interview
+ -ES6
+ -Framework Javascript
+-php framework
+-interview
 -vlog
